@@ -1,6 +1,6 @@
 # Lab 1: Interactive traffic lights
 
-## Part 1: traffic lights for motor vehicle
+## Part 1: Traffic lights for motor vehicle
 
 The following is **one cycle**:
 
@@ -11,7 +11,7 @@ The following is **one cycle**:
 | 3   | OFF  |  OFF  |  ON  | 10 |
 | 4   | OFF  |  ON   |  OFF | 3 |
 
-## Part 2： Interactive traffic lights
+## Part 2：Interactive traffic lights
 
 The following is **one cycle**:
 
